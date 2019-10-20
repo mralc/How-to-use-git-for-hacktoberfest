@@ -1,7 +1,6 @@
-# Al Guide how to git hub
+# Al's GitHub how-to guide
 
-## Create Local Respo 
-
+## Create Local Repo 
 
 * Create a directory to contain the project.
 * Go into the new directory.
@@ -10,7 +9,7 @@
 * Type git add .
 * Type git commit.
 
-## Add to git hub 
+## Add to GitHub 
 ```
 git remote add origin https://github.com/mralc/How-to-use-git-for-hacktoberfest.git
 git push -u origin master
@@ -25,7 +24,7 @@ git remote add origin https://github.com/mralc/How-to-use-git-for-hacktoberfest.
 git push -u origin master
 ```
 
-## Add commit changes
+## Add and commit changes
 
 Make changes to files
 ```
@@ -38,14 +37,14 @@ git push -u origin master
 ```
 git checkout -b altest3
 ```
-makes changes
+make changes
 ```
 git add .
 git commit
 git checkout master
 git push -u origin altest3
 ```
-Go to git hub and merge the pull reguest
+Go to GitHub and merge the pull reguest
 Download the change to local git
 ```
 git pull
