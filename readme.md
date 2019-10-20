@@ -28,6 +28,8 @@ git push -u origin master
 ## Add commit changes
 
 Make changes to files
+```
 git add .
 git commit
 git push -u origin master
+```
