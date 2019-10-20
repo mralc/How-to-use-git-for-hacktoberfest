@@ -44,7 +44,7 @@ git commit
 git checkout master
 git push -u origin altest3
 ```
-Go to GitHub and merge the pull reguest
+Go to GitHub and merge the pull request
 Download the change to local git
 ```
 git pull
