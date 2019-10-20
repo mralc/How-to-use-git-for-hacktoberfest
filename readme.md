@@ -36,7 +36,17 @@ git push -u origin master
 
 ## create a branch 
 ```
-git checkout -b altest
+git checkout -b altest3
+```
+makes changes
+```
 git add .
-git commit -a -m 'test branch'
+git commit
+git checkout master
+git push -u origin altest3
+```
+Go to git hub and merge the pull reguest
+Download the change to local git
+```
+git pull
 ```
