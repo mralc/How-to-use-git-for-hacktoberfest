@@ -24,3 +24,10 @@ git commit -m "first commit"
 git remote add origin https://github.com/mralc/How-to-use-git-for-hacktoberfest.git
 git push -u origin master
 ```
+
+## Add commit changes
+
+Make changes to files
+git add .
+git commit
+git push -u origin master
