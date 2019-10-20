@@ -37,5 +37,6 @@ git push -u origin master
 ## create a branch 
 ```
 git checkout -b altest
+git add .
 git commit -a -m 'test branch'
 ```
