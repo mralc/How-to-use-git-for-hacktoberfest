@@ -33,7 +33,7 @@ git commit
 git push -u origin master
 ```
 
-## create a branch 
+## Create a branch 
 ```
 git checkout -b altest3
 ```
